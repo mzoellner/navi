@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navi", "Navi\Navi.csproj", "{AA104A86-3818-447A-B8B8-68A2C72AC079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Debug|Win32.ActiveCfg = Debug|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Debug|x86.ActiveCfg = Debug|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Debug|x86.Build.0 = Debug|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Release|Win32.ActiveCfg = Release|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Release|x86.ActiveCfg = Release|x86
+		{AA104A86-3818-447A-B8B8-68A2C72AC079}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
