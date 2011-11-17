@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<navigationTags>
+  <navigationTag id="28" location="first marker">
+    <depths>
+      <depth value="2000" text="turn left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="37" location="second marker">
+    <depths>
+      <depth value="2000" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="38" location="door">
+    <depths>
+      <depth value="2000" text="Door, ahead, in 3"></depth>
+      <depth value="1700" text="2"></depth>
+      <depth value="1400" text="1"></depth>
+      <depth value="1200" text="pull the door"></depth>
+    </depths>
+  </navigationTag>
+  <!--<navigationTag id="0" location="erster tag am pfeiler">
+    <depths>
+      <depth value="3500" text="turn right"></depth>
+      <depth value="2500" text="stop, please turn round"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="1" location="gang vor der kaffekueche">
+    <depths>
+      <depth value="3000" text="walk forward until the next information appears"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="2" location="wand vor sekretariat">
+    <depths>
+      <depth value="4000" text="keep left"></depth>
+      <depth value="1500" text="stop, please turn left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="30" location="glaswand vor sitzecke">
+    <depths>
+      <depth value="3000" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="3" location="wand vor büro prof. reiterer">
+    <depths>
+      <depth value="2500" text="keep left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="4" location="pfeiler vor büro flo">
+    <depths>
+      <depth value="4000" text="attention. obstacles on left side."></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="29" location="tür nach flos büro">
+    <depths>
+      <depth value="3000" text="right-opening door, a'head, in 3"></depth>
+      <depth value="2000" text="2"></depth>
+      <depth value="1500" text="1"></depth>
+      <depth value="1400" text="pull the door"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="5" location="pfeiler nach tür id:4">
+    <depths>
+      <depth value="3000" text="attention, obstacle on left side, walk forward"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="31" location="treppe vor aufzug">
+    <depths>
+      <depth value="2500" text="turn left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="32" location="wand neben aufzug">
+    <depths>
+      <depth value="2500" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="6" location="pfeiler vor fahrstuhl">
+    <depths>
+      <depths>
+        <depth value="2500" text="turn left, elevator, in"></depth>
+        <depth value="1500" text="stop, please turn left"></depth>
+      </depths>
+    </depths>
+  </navigationTag>
+  <navigationTag id="7" location="rechts neben fahrstuhl">
+    <depths>
+      <depth value="3000" text="3"></depth>
+      <depth value="2000" text="2"></depth>
+      <depth value="1500" text="1"></depth>
+      <depth value="1400" text="push button, to open"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="8" location="treppengeländer nach fahrstuhl">
+    <depths>
+      <depth value="2000" text="turn right and walk straight forward"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="9" location="pfeiler nach fahrstuhl">
+    <depths>
+      <depth value="3000" text="obstacle on right side"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="33" location="fenster nach fahrstuhl">
+    <depths>
+      <depth value="3000" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="10" location="tür nach fahrstuhl">
+    <depths>
+      <depth value="3500" text="attention, door, in"></depth>
+      <depth value="2500" text="3"></depth>
+      <depth value="2000" text="2"></depth>
+      <depth value="1500" text="1"></depth>
+      <depth value="1300" text="pull door to open"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="11" location="pfeiler nach tür id:10">
+    <depths>
+      <depth value="3000" text="keep left. walk straight forward"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="12" location="wand mit sicherungskasten">
+    <depths>
+      <depth value="3000" text="keep left. attention. obstacles on right side"></depth>
+    </depths>
+  </navigationTag>-->
+  <!--<navigationTag id="13" location="wand gegenüber von id:12">
+    <depths>
+      <depth value="2000" text="turn half right. keep left. obstacles on right side"></depth>
+    </depths>
+  </navigationTag>-->
+  <!--<navigationTag id="14" location="unter uhr">
+    <depths>
+      <depth value="4000" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="34" location="rechts neben doppeltür">
+    <depths>
+      <depth value="3000" text="keep left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="15" location="nach doppeltür auf linker seite">
+    <depths>
+      <depth value="5000" text="keep right. walk straight forward"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="19" location="nach doppeltür auf rechter seite">
+    <depths>
+      <depth value="3000" text="keep right. attention. wall on right side"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="25" location="nach id:19 auf rechter seite">
+    <depths>
+      <depth value="3000" text="keep right. attention. wall on right side"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="26" location="nach id:25 auf rechter seite">
+    <depths>
+      <depth value="3000" text="keep right. attention. wall on right side"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="16">
+    <depths>
+      <depth value="2500" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="17">
+    <depths>
+      <depth value="2500" text="turn half right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="18">
+    <depths>
+      <depth value="2500" text="turn left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="20">
+    <depths>
+      <depth value="2500" text="turn right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="21">
+    <depths>
+      <depth value="2500" text="turn half left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="22">
+    <depths>
+      <depth value="3000" text="keep left"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="35">
+    <depths>
+      <depth value="2500" text="turn half right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="24">
+    <depths>
+      <depth value="2000" text="turn half right"></depth>
+    </depths>
+  </navigationTag>
+  <navigationTag id="36">
+    <depths>
+      <depth value="2000" text="turn left"></depth>
+    </depths>
+  </navigationTag>-->
+</navigationTags>
